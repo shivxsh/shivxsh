@@ -3,5 +3,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Tamil Nadu
 *   ✉️  You can contact me at [20z348@psgtech.ac.in](mailto:20z348@psgtech.ac.in)
-*   🧠  I'm learning Solidity
+*   💻  Frontend coder 
 *   ⚡  Abstract and Lo-fi > everything else
