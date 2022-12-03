@@ -6,6 +6,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🎮  Flutter, Web3 & Tech
 *   ⚡  Abstract & Lo-fi > everything else -->
 
-
-## Snake eating my Contributions Graph 
-![snake gif](https://github.com/shivxsh/shivxsh/blob/output/github-contribution-grid-snake.gif)
