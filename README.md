@@ -11,8 +11,9 @@
 <h3 align="left">🔢 Stats</h3>
 <br>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivxsh&hide=HTML,CSS&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=fff" height="200" border_radius = 10px />
 <!--   <img src="https://streak-stats.demolab.com/?user=shivxsh&theme=dracula&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivxsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivxsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
