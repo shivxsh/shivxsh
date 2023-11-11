@@ -72,6 +72,17 @@
 
 ###
 
+<br>
+<h3 align="left">🧑‍💻 Leetcode Stats</h3>
+<br>
+<div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/_shivxsh_10?theme=dark&font=Rubik)
+</div>
+
+
+###
+
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/shivxsh/shivxsh/output/snake.svg" alt="Snake animation" /> -->
 </div>
